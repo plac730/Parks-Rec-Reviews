@@ -1,0 +1,16 @@
+#show-pic {
+    padding:0;
+}
+
+.thumbnail img {
+    width:100%;
+}
+
+.deleteForm {
+    display:inline;
+}
+
+.mainForm {
+    width: 30%;
+    margin: 20px auto;
+}

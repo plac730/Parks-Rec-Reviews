@@ -6,6 +6,12 @@
     height: 400px;
     width: 100%;
 }
+
+#campfire {
+    height: 70px;
+    margin: 0 1rem;
+}
+
 .thumbnail img {
     width:100%;
 }
@@ -18,3 +24,14 @@
     width: 30%;
     margin: 20px auto;
 }
+
+.green {
+    color: green;
+}
+
+.jumbotron {
+    color:rgb(100, 60, 15);
+    background-color: rgb(156, 193, 151);
+    text-align:center;
+}
+

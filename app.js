@@ -27,7 +27,6 @@ app.use(override("_method"));
 app.use(flash());
 
 app.locals.moment = require('moment');
-//seedDB();  
 
 // Passport configuration
 app.use(require("express-session")({
